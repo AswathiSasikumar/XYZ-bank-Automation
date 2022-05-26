@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.planittesting.xyzbank.tests.CustomerLoginTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.402 s <<< FAILURE! - in com.planittesting.xyzbank.tests.CustomerLoginTest
+verifyCustomerDeposit  Time elapsed: 5.886 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <1000.0> but was: <100000.0>
+	at com.planittesting.xyzbank.tests.CustomerLoginTest.verifyCustomerDeposit(CustomerLoginTest.java:27)
+

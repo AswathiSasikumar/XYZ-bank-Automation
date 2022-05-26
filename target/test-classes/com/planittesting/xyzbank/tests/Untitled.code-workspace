@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "/Users/kunjiv/SDET_BOOTCAMP/sdet-bootcamp-may-2022"
+		},
+		{
+			"name": "xyzbank",
+			"path": "/Users/kunjiv/Project_SDET/xyzbank"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

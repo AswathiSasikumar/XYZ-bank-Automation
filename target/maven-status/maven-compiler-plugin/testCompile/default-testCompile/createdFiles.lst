@@ -1,0 +1,5 @@
+com/planittesting/xyzbank/tests/BankManagerTest.class
+com/planittesting/xyzbank/model/pages/BasePage.class
+com/planittesting/xyzbank/tests/BaseTestSuite.class
+com/planittesting/xyzbank/tests/CustomerLoginTest.class
+com/planittesting/xyzbank/model/pages/BankManagerPage.class
