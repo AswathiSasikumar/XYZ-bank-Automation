@@ -1,6 +1,7 @@
 # XYZ-bank-Automation
 
 Website selected for Automation is banking site- https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login
+Automation tool:Selenium
 
 The site has 2 logins -Customer Login and Branch Manager Login
 
